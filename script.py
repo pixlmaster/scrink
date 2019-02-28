@@ -17,7 +17,7 @@ import csv
 
 #constants
 thumbtube_link="https://www.linkedin.com/sales/gmail/profile/viewByEmail/"
-user_name="testkgp100@gmail.com"													#test-email id
+user_name="testkgp@gmail.com"													#test-email id
 user_password="qwerasdf"														#test-password
 linkedin_link="https://www.linkedin.com/"
 
